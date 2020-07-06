@@ -11,7 +11,7 @@
 ## Getting Started
 ### 1. Lab Steps
 
-All the steps to complete the lab.
+All the steps required to complete the lab.
 
 
 
@@ -21,4 +21,5 @@ All the steps to complete the lab.
 
 ---
 
-<p align="right"><a href="../02 - Basic Security Best Practices">Lab 02: Basic Security Best Practices →</a></p>
+<p align="left"><a href="../01 - Stage 1">← Previous Step</a></p>
+<p align="right"><a href="../03 - Launching an EC2 Instance">Next Step →</a></p>
